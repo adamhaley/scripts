@@ -1,0 +1,1 @@
+dig +trace adamhaley.com
